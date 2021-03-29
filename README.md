@@ -1,5 +1,5 @@
-## Nama : Sugih Hartono
-## NIM : 311910736
+## Nama : Yusuf Muhammad
+## NIM : 311910617
 ## Kelas : TI.19.B2
 
 # Jawab Pertanyaan Berikut
