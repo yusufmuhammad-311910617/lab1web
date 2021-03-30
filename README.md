@@ -31,5 +31,31 @@ _parent : Membuka halaman website pada parent frame.
 1. Pembuatan judul web
 ![a](https://user-images.githubusercontent.com/81587959/112927165-c25ff300-913e-11eb-8c62-5f4ac31d9fca.PNG)
 ![aa](https://user-images.githubusercontent.com/81587959/112927255-eae7ed00-913e-11eb-94e0-0ee1c2b131e6.PNG)
+2. Pembuatan Paragraf
+![b](https://user-images.githubusercontent.com/81587959/112927518-5205a180-913f-11eb-87fb-3c301f73d5e1.PNG)
+![bb](https://user-images.githubusercontent.com/81587959/112927530-5b8f0980-913f-11eb-9300-ed9494fb4c27.PNG)
+3. Merubah Posisi Paragraf
+![C](https://user-images.githubusercontent.com/81587959/112927751-ac9efd80-913f-11eb-8851-6ba885f4ad8e.PNG)
+![Cc](https://user-images.githubusercontent.com/81587959/112927764-b45ea200-913f-11eb-88fb-a33bf14cc28e.PNG)
+4.Pembuatan Tanda Pada Tulisan ( Font,Style,Bold, dll)
+![d](https://user-images.githubusercontent.com/81587959/112927866-deb05f80-913f-11eb-8f26-78b9232f0d4f.PNG)
+![dd](https://user-images.githubusercontent.com/81587959/112927878-e40daa00-913f-11eb-8233-bbc48288e7d0.PNG)
+5. Menambah Foto
+![f](https://user-images.githubusercontent.com/81587959/112928136-48306e00-9140-11eb-8ae6-0bb302ae25a4.PNG)
+![44](https://user-images.githubusercontent.com/81587959/112928650-34d1d280-9141-11eb-953a-c5e84080fb42.PNG)
+6. Merubah Ukuran Foto
+![CDD](https://user-images.githubusercontent.com/81587959/112928339-a4938d80-9140-11eb-8358-b40dcb408d03.PNG)
+![CAD](https://user-images.githubusercontent.com/81587959/112928351-aa896e80-9140-11eb-91c6-c0d8a6f24fa5.PNG)
+7. Menambahkan Navigasi Atau Pindah Link
+![101010](https://user-images.githubusercontent.com/81587959/112928515-f4725480-9140-11eb-9385-c466c73a1742.PNG)
+![10101](https://user-images.githubusercontent.com/81587959/112928526-f89e7200-9140-11eb-97e0-ac903ff19b73.PNG)
+
+8 Hasil Finishing
+![11111](https://user-images.githubusercontent.com/81587959/112928615-25528980-9141-11eb-8a36-802abee98675.PNG)
+
+
+
+
+
 
 
