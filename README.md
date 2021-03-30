@@ -39,9 +39,9 @@ _parent : Membuka halaman website pada parent frame.
 ![Cc](https://user-images.githubusercontent.com/81587959/112927764-b45ea200-913f-11eb-88fb-a33bf14cc28e.PNG)
 4.Pembuatan Tanda Pada Tulisan ( Font,Style,Bold, dll)
 ![d](https://user-images.githubusercontent.com/81587959/112927866-deb05f80-913f-11eb-8f26-78b9232f0d4f.PNG)
-![dd](https://user-images.githubusercontent.com/81587959/112927878-e40daa00-913f-11eb-8233-bbc48288e7d0.PNG)
+![444444444444](https://user-images.githubusercontent.com/81587959/112929067-ef61d500-9141-11eb-9a24-a147b53a858f.PNG)
 5. Menambah Foto
-![f](https://user-images.githubusercontent.com/81587959/112928136-48306e00-9140-11eb-8ae6-0bb302ae25a4.PNG)
+![44444](https://user-images.githubusercontent.com/81587959/112929529-d0b00e00-9142-11eb-95a6-10bd80c34532.PNG)
 ![44](https://user-images.githubusercontent.com/81587959/112928650-34d1d280-9141-11eb-953a-c5e84080fb42.PNG)
 6. Merubah Ukuran Foto
 ![CDD](https://user-images.githubusercontent.com/81587959/112928339-a4938d80-9140-11eb-8358-b40dcb408d03.PNG)
