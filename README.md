@@ -27,7 +27,7 @@ _self : Membuka halaman website di tab ini.
 _top : Membuka halaman website dan membatalkan semua frame.
 _parent : Membuka halaman website pada parent frame.
 ```
-# Tugas 1
+# Tugas Pertemuan Ke-3
 1. Pembuatan judul web
 ![1](https://user-images.githubusercontent.com/81239107/112869100-f9a2b580-90e6-11eb-82fe-725d0952fa9c.JPG)
 ![1 1](https://user-images.githubusercontent.com/81239107/112869042-ebed3000-90e6-11eb-8578-b81b0a7cd665.JPG)
