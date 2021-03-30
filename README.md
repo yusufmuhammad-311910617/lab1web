@@ -37,7 +37,7 @@ _parent : Membuka halaman website pada parent frame.
 3. Merubah Posisi Paragraf
 ![3](https://user-images.githubusercontent.com/81587959/112930906-5c2a9e80-9145-11eb-85bb-babb3e65d0d9.PNG)
 ![3 3](https://user-images.githubusercontent.com/81587959/112930929-664c9d00-9145-11eb-9141-fcacc3b05c38.PNG)
-4.Membuat tanda pada tulisan, tebal, warna tulisan
+4. Membuat tanda pada tulisan, tebal, warna tulisan
 ![4](https://user-images.githubusercontent.com/81587959/112931093-ad3a9280-9145-11eb-914c-6e90f1adf3c4.PNG)
 ![4 4](https://user-images.githubusercontent.com/81587959/112931102-b1ff4680-9145-11eb-9962-a95995030e21.PNG)
 5. Menambahkan Foto
@@ -46,7 +46,7 @@ _parent : Membuka halaman website pada parent frame.
 6. Merubah Ukuran Foto
 ![6](https://user-images.githubusercontent.com/81587959/112931270-060a2b00-9146-11eb-9fcd-4c17c788d775.PNG)
 ![6 6](https://user-images.githubusercontent.com/81587959/112931282-102c2980-9146-11eb-8fdc-87d9b11efb95.PNG)
-7.Menambahkan navigasi atau untuk pindah link
+7. Menambahkan navigasi atau untuk pindah link
 ![7](https://user-images.githubusercontent.com/81587959/112931360-2e922500-9146-11eb-8f80-7d8ababea573.PNG)
 ![7 7](https://user-images.githubusercontent.com/81587959/112931370-36ea6000-9146-11eb-9897-feba048ea770.PNG)
 8. Hasil Finishing
