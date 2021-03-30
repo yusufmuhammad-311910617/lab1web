@@ -27,7 +27,7 @@ _self : Membuka halaman website di tab ini.
 _top : Membuka halaman website dan membatalkan semua frame.
 _parent : Membuka halaman website pada parent frame.
 ```
-# Tugas Pertemuan Ke-3
+# Tugas Praktikum 1
 1. Pembuatan judul web
 ![1](https://user-images.githubusercontent.com/81239107/112869100-f9a2b580-90e6-11eb-82fe-725d0952fa9c.JPG)
 ![1 1](https://user-images.githubusercontent.com/81239107/112869042-ebed3000-90e6-11eb-8578-b81b0a7cd665.JPG)
@@ -37,7 +37,7 @@ _parent : Membuka halaman website pada parent frame.
 3. Merubah posisi paragraf
 ![3](https://user-images.githubusercontent.com/81239107/112869117-fdced300-90e6-11eb-8e8d-01e20c80cb55.JPG)
 ![3 3](https://user-images.githubusercontent.com/81239107/112869115-fd363c80-90e6-11eb-8d5d-22d5a059b1f6.JPG)
-4.Pembuatan tanda pada tulisan, tebal, warna tulisan
+4. Pembuatan tanda pada tulisan, tebal, warna tulisan
 ![5](https://user-images.githubusercontent.com/81239107/112869131-00c9c380-90e7-11eb-877b-da168326ea5a.JPG)
 ![5 5](https://user-images.githubusercontent.com/81239107/112869127-00312d00-90e7-11eb-8189-90b2807902b0.JPG)
 5. Penambahan foto
