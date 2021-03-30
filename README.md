@@ -2,11 +2,11 @@
 ## NIM : 311910617
 ## Kelas : TI.19.B2
 
-# Jawab Pertanyaan Berikut
+# Pertanyan !!!
 
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 ```
-Tidak ana notif error, hanya saja saat tidak berjalan html yang di buka tidak ada perubahan.
+Tidak ada notif error, hanya saja saat tidak berjalan html yang di buka tidak ada perubahan.
 ```
 2. Apa perbedaan dari tag ``<p>`` dengan tag ``<br>``, berikan penjelasannya!
 ```
