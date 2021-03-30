@@ -6,19 +6,19 @@
 
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 ```
-Tidak ada notif error, hanya saja saat tidak berjalan html yang di buka tidak ada perubahan.
+Tidak ada notif error, hanya saja saat ada penulisan teks yang salah html yang di buka tidak ada perubahan.
 ```
 2. Apa perbedaan dari tag ``<p>`` dengan tag ``<br>``, berikan penjelasannya!
 ```
-<p> untuk membuat suatu paragraf, sedangkan <br> untuk membuat baris baru / untuk memberi jarak pada paragraf.
+<p> berfungsi untuk membuat suatu paragraf, sedangkan <br> berfungsi untuk membuat baris baru / untuk memberi jarak pada paragraf.
 ```
 3. Apa perbedaan atribut title dan alt pada tag ``<img>``, berikan penjelasannya!
 ```
-setelah saya coba tidak terjadi perbedaan, akan tetapi penjelesannya mengatakan title untuk judul, alt untuk deskripsinya.
+tidak ada perbedaan karena saat saya coba tidak ada perubahan html.
 ```
 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
 ```
-untuk mendapatkan hasil yang di inginkan alangkah baiknya di isi semua, jika di isi salah satu bisa jadi gambar terlalu tinggi atau terlalu lebar.
+lebih baik diisi semua, karena jika di isi salah satu bisa jadi gambar terlalu tinggi atau terlalu lebar.
 ```
 5. Pada link tambahan atribut target dengan nilai atribut bervariasi (_blank, _self, _top, _parent), apa yang terjadi pada masing-masing nilai atribut tersebut?
 ```
