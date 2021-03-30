@@ -29,30 +29,8 @@ _parent : Membuka halaman website pada parent frame.
 ```
 # Tugas Praktikum 1
 1.Pembuatan judul web
-![a](https://user-images.githubusercontent.com/81587959/112927165-c25ff300-913e-11eb-8c62-5f4ac31d9fca.PNG)
-![aa](https://user-images.githubusercontent.com/81587959/112927255-eae7ed00-913e-11eb-94e0-0ee1c2b131e6.PNG)
-2.Pembuatan Paragraf
-![b](https://user-images.githubusercontent.com/81587959/112927518-5205a180-913f-11eb-87fb-3c301f73d5e1.PNG)
-![bb](https://user-images.githubusercontent.com/81587959/112927530-5b8f0980-913f-11eb-9300-ed9494fb4c27.PNG)
-3.Merubah Posisi Paragraf
-![C](https://user-images.githubusercontent.com/81587959/112927751-ac9efd80-913f-11eb-8851-6ba885f4ad8e.PNG)
-![Cc](https://user-images.githubusercontent.com/81587959/112927764-b45ea200-913f-11eb-88fb-a33bf14cc28e.PNG)
-4.Pembuatan Tanda Pada Tulisan ( Font,Style,Bold, dll)
-![d](https://user-images.githubusercontent.com/81587959/112927866-deb05f80-913f-11eb-8f26-78b9232f0d4f.PNG)
-![DD](https://user-images.githubusercontent.com/81587959/112929067-ef61d500-9141-11eb-9a24-a147b53a858f.PNG)
-5.Menambah Foto
-![E](https://user-images.githubusercontent.com/81587959/112929529-d0b00e00-9142-11eb-95a6-10bd80c34532.PNG)
-![EE](https://user-images.githubusercontent.com/81587959/112928650-34d1d280-9141-11eb-953a-c5e84080fb42.PNG)
-6.Merubah Ukuran Foto
-![F](https://user-images.githubusercontent.com/81587959/112928339-a4938d80-9140-11eb-8358-b40dcb408d03.PNG)
-![FF](https://user-images.githubusercontent.com/81587959/112928351-aa896e80-9140-11eb-91c6-c0d8a6f24fa5.PNG)
-7.Menambahkan Navigasi Atau Pindah Link
-![G](https://user-images.githubusercontent.com/81587959/112928515-f4725480-9140-11eb-9385-c466c73a1742.PNG)
-![GGG](https://user-images.githubusercontent.com/81587959/112928526-f89e7200-9140-11eb-97e0-ac903ff19b73.PNG)
-
-8 Hasil Finishing
-![HHHHH](https://user-images.githubusercontent.com/81587959/112928615-25528980-9141-11eb-8a36-802abee98675.PNG)
-
+![a](https://user-images.githubusercontent.com/81587959/112929992-b88cbe80-9143-11eb-9e43-bd6b82707b6a.PNG)
+![aa](https://user-images.githubusercontent.com/81587959/112930008-bcb8dc00-9143-11eb-8384-daeac4875da1.PNG)
 
 
 
