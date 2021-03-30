@@ -29,8 +29,8 @@ _parent : Membuka halaman website pada parent frame.
 ```
 # Tugas Praktikum 1
 1.Pembuatan judul web
-![a](https://user-images.githubusercontent.com/81587959/112929992-b88cbe80-9143-11eb-9e43-bd6b82707b6a.PNG)
-![aa](https://user-images.githubusercontent.com/81587959/112930008-bcb8dc00-9143-11eb-8384-daeac4875da1.PNG)
+![1](https://user-images.githubusercontent.com/81587959/112929992-b88cbe80-9143-11eb-9e43-bd6b82707b6a.PNG)
+![11](https://user-images.githubusercontent.com/81587959/112930008-bcb8dc00-9143-11eb-8384-daeac4875da1.PNG)
 
 
 
